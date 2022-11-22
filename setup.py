@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-        name= 'tools',
+        name= 'miktools',
         version='0.0a1',
         description="Package containing general tools for daily stuff",
         author="Miquel Canyelles Niño",
